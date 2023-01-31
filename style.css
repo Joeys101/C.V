@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.container {
+    display: flex;
+}
+.atajo img {
+    max-height: 60px;
+}
+.atajo {
+    position: fixed;
+}
+.contenido {
+    background-color: black;
+    color: white;
+    width: 100%;
+    margin-left: 20%;
+}
+.github {
+    color:white;
+}
+.linkedin {
+    color: white;
+}
