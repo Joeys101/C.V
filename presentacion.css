@@ -1,0 +1,27 @@
+.contenido {
+    
+    color: white;
+    width: 100%;
+    margin-left: 20%;
+}
+.nombre {
+    margin-top: 20%;
+    margin-left: 2%;
+}
+.bienvenida {
+    margin-top: 2%;
+    margin-left: 2%;
+}
+.mail {
+    font-weight: 100;
+    margin-left: 2%;
+}
+.descarga {
+    margin: 2%;
+    padding: 5px;
+}
+.iconos {
+    margin-left: 2%;
+    font-size: 200%;
+}
+
