@@ -20,8 +20,32 @@ a {
     display: flex;
 }
 h1 {
-    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-family: 'Bebas Neue';
 }
 h3 {
     font-family: 'Rajdhani', sans-serif;
+}
+h4 {
+    font-family: 'Rajdhani', sans-serif;
+}
+button {
+    cursor: pointer;
+    border-radius: 10px;
+    font-family: 'Bebas Neue';
+    font-size: 20px;
+    height: 50px;
+    width: 180px;    
+    border: transparent;
+}
+button:hover {
+	background: -webkit-gradient(linear, left top, right bottom, color-stop(50%,#3ec300), color-stop(100%,#23d200)); /* Chrome,Safari4+ */
+    transition: all 0.3s ease 0s;
+    color: white;
+}
+.github {
+    margin: 2%;
+}
+a:hover {
+    color: #23d200;
+    transition: all 0.3s ease 0s;
 }
