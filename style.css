@@ -27,6 +27,8 @@ h3 {
 }
 h4 {
     font-family: 'Rajdhani', sans-serif;
+    font-weight: 100;
+
 }
 button {
     cursor: pointer;
@@ -48,4 +50,8 @@ button:hover {
 a:hover {
     color: #23d200;
     transition: all 0.3s ease 0s;
+}
+li {
+    margin-top: 2%;
+    margin-left: 20%;
 }
